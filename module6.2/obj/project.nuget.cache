@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HyWV+tP6F0BtPLVMXrOuO2Nrjl+OrRjhR01sXEf617geiuAtLQ+NYea0/rWuvLK/XRktGoen5tkut9v/lhur8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Digitization\\source\\repos\\module6.2\\module6.2\\module6.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Digitization\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
